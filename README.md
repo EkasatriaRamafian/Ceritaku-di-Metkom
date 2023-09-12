@@ -7,4 +7,5 @@ Tentang apa saja yang ku pelajari di git dan yang aku bingungkan
 2. What i confused about
     * Kesulitan dalam mengumpulkan tugas
     * Kesulitan melakukan formatting profile seperti yang diinginkan
+    * Kesulitan mempelajari pull/merge/fetch
 ![TUGAS](https://github.com/EkasatriaRamafian/Ceritaku-di-Metkom/blob/main/Screenshot%20(14).png)
