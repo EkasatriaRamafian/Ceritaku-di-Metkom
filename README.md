@@ -7,3 +7,4 @@ Tentang apa saja yang ku pelajari di git dan yang aku bingungkan
 2. What i confused about
     * Kesulitan dalam mengumpulkan tugas
     * Kesulitan melakukan formatting profile seperti yang diinginkan
+![TUGAS]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/EkasatriaRamafian/Ceritaku-di-Metkom/blob/main/Screenshot%20(14).png)https://github.com/EkasatriaRamafian/Ceritaku-di-Metkom/blob/main/Screenshot%20(14).png)
